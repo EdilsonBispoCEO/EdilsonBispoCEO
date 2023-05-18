@@ -26,7 +26,6 @@
   <img align="center" alt="Edi-Sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Edi-Vuejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Edi-Wordpress" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />  
-  <img align="rigth" alt="Edi-Clack" src="https://cdn.discordapp.com/attachments/1097545622069989468/1108838337265016912/hi.gif" />
 </div>
   
   ### Segue as minhas redes sociais abaixo:
