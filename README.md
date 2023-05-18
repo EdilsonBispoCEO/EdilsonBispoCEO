@@ -25,7 +25,8 @@
   <img align="center" alt="Edi-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Edi-Sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Edi-Vuejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="Edi-Wordpress" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />   
+  <img align="center" alt="Edi-Wordpress" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />  
+  <img align="rigth" alt="Edi-Clack" src="https://cdn.discordapp.com/attachments/1097545622069989468/1108838337265016912/hi.gif" />
 </div>
   
   ### Segue as minhas redes sociais abaixo:
@@ -46,10 +47,14 @@
   
   
 <!--
+Essa linha de codigo Eu fiz na unha, mas você criar pelo https://gprm.itsvg.in/  aqui é só colocar as informações que deseja e ele cria o README.
 Aqui posso encontrar diversos icones https://dev.to/envoy_/150-badges-for-github-pnk#contents
 Como também emojs  https://emojipedia.org/objects/
 
 Aqui posso encontrar as linguagem  https://devicon.dev/
+
+Aqui você pode cria uma imagem gif pra parece no seu portal https://picrew.me/en cria duas imagens e vai em um criador de gif e cria as imagens que quiser
+ Algo importante pra criar um link você pode jogar ele no discord
 
 
 
