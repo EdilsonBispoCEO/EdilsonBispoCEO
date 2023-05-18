@@ -32,8 +32,8 @@
   ### Segue as minhas redes sociais abaixo:
   
   <div>
-    <a href="edilson.pixot007@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
-    <a href="linkedin.com/in/edilson-bispo-100664110" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:contato@edilson.pixot007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/edilson-bispo-100664110" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/edilsonbisp" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <img align="right"  alt="Edi-Chef" height="90" width="90" src="https://cdn.discordapp.com/attachments/1097545622069989468/1108864357607153785/oi.gif">
   </div>
