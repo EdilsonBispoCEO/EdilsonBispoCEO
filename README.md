@@ -3,7 +3,9 @@
 ## 👀 Tenho interesses pelas áreas de UX, software, ecossistema JavaScript, programação & Data e pela área de negócios, em particular o mercado financeiro & o mundo dos big data.
 - 🌱  Trabalho com back-end e front-end desde 2021
 - ⚡ Atualmente venho me desenvolvendo na aréa tecnicas de TI e sistemas com grande ênfase na área da Programação.
+
 <div>
+  
   <a href="https://github.com/EdilsonBispoCEO" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdilsonBispoCEO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdilsonBispoCEO&layout=compact&langs_count=7&theme=dracula"/>
